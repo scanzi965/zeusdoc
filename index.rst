@@ -13,7 +13,7 @@ Guida per l'utente
 .. toctree::
    manuale
    modifiche
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 
