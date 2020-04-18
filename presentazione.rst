@@ -14,6 +14,8 @@ Fatta questa doverosa premessa, passiamo ad elencare le generalità peculiari di
 *	Gestione multiaziendale e multimagazzino;
 *	Gestione dati ed informazioni completamente in linea, “ON LINE”, della gestione corrente e di più anni di storico,
 
+====
+
 SOFTWARE
 ========
 L'intero prodotto PROGRAMMI, di seguito brevemente spiegato, è suddiviso in moduli l'acquisto dei quali può essere fatto anche in tempi diversi essendo tutti i moduli completamente integrati fra loro e del tutto indipendenti gli uni dagli altri.
@@ -42,6 +44,8 @@ Archivi di base (unico modulo obbligatorio)
 #. trasmissione documenti 
 #. Gestione agenti e depositi remoti 
 #. Autofatturazione 
+
+----
 
 Descrizione del modulo
 ----------------------
@@ -98,6 +102,8 @@ Per gli archivi dei clienti, fornitori e banche sono previste stampe articolate 
 
 Stampe parametrizzate consentono di ottenere liste diverse a seconda delle necessità o dei gusti di ogni cliente.
 
+----
+
 Contabilità generale e I.V.A.
 -----------------------------
 
@@ -152,6 +158,8 @@ Liste automatiche di importazione ed esportazione, anche su supporto magnetico, 
 Definizione automatica dei numeri di elenco.
 Registrazione automatica del debito di monofase verso l’ufficio tributario, per tipo distinta.
 
+----
+
 Magazzino
 ---------
 
@@ -189,8 +197,7 @@ Le informazioni gestite sono:
 *   Schede con informazioni aggiuntive a seconda delle necessità dell’azienda.
 *   Gestione di più unità di misura 2 di gestione, 1 di produzione 1 per ogni fornitore da cui è possibile 	acquistare (o far lavorare) il prodotto.
 
-*Gestione*
-__________
+**Gestione**
 
 Carichi e scarichi, anche di trasferimento automatico fra magazzini.
 Collegamento alla contabilità industriale anche attraverso specifiche lavorazioni
@@ -200,11 +207,12 @@ Utilità che consentono il caricamento automatico di dati sugli articoli, la spo
 Gestione degli imballi per aziende settore alimentare.
 Gestione di articoli non a scarico (Phantom, Servizi, Mano d’opera ecc.)
 
-*Inventari*
-___________
+**Inventari**
 
 Una sofisticata gestione di rilevazione d’inventario consente di determinare le giacenze in tempi brevissimi anche attraverso sistemi ottici portatili di lettura. 
 Non è indispensabile che l’azienda tenga bloccate le altre normali attività, né che l’inventario sia rilevato al primo gennaio dell’anno, un programma apposito è in grado di ricalcolare a ritroso la giacenza per ritrovare dalla data di inventario reale, le giacenze presenti al primo giorno dell’anno contabile.
+
+----
 
 Vendite
 -------
@@ -225,8 +233,7 @@ I programmi in oggetto consentono la gestione di:
 
 Il tutto corredato da una ricca casistica di determinazione dei prezzi di vendita quali listini a sconto, ricarico o prezzi alternativi; Listini a valore assoluto (fino a 9.999 diversi); Griglia  sconti determinate da classi clienti e categorie gruppi, sottogruppi merceologici; oltre alla possibilità di mettere manualmente fino a 4 sconti/ricarichi su ogni riga articolo, sconti automatici o manuali di piede documento legati al cliente o alla condizione di pagamento, accettazione automatica o manuale di importi pagati e/o abbuoni.
 
-*Stampe*
-_________
+**Stampe**
 
 *   Liste dei documenti di vendita con o senza dettaglio delle voci.
 *   Liste documenti accompagnatori per vettore o trasportatore interno
@@ -321,9 +328,10 @@ Con questo modulo è possibile operare cambiamenti ai valori o agli scaglioni pr
 Stampe di verifica con varie opzioni di dettaglio o di raggruppamento per tipo provvigione o per tipologia di materiale.
 Stampa di aggiornamento che consente il collegamento al modulo contabile di estratto conto provvigionale che consentirà il pagamento delle provvigioni per tipo pagamento solo nel momento in cui l’incasso è realmente avvenuto.
 
+----
+
 Ordini fornitori
 ----------------
-
 
 Inserimento dell’ordine fornitore con collegamento automatico al listino fornitore sia per quanto riguarda prezzi e sconti (in numero pressoché illimitato) sia per quanto riguarda spese accessorie (Incasso, Trasporto, Stoccaggio di magazzino ecc.) il tutto sia in valore assoluto che in percentuale.
 La macchina è in grado così di gestire sia il prezzo di acquisto che il costo industriale dell’articolo.
@@ -338,8 +346,7 @@ Aggiornamento del magazzino e gestione di schede di interrogazione che consentir
 *	Visualizzazione degli ordini già entrati a magazzino
 *	Visualizzazione dei documenti del fornitore sia attraverso il numero di bolla che quello di fattura
 
-*Stampe*
-________
+**Stampe**
 
 Come per le visualizzazioni con in più:
 
@@ -352,11 +359,11 @@ Impegno finanziario in base ai dati contabili, alle bolle non ancora fatturate, 
 *	Lista articoli con le condizioni applicate dai vari fornitori da cui possono essere acquistati.
 *	Stampa dei listini d’acquisto.
 
-
-*Controllo fatture*
-___________________
+**Controllo fatture**
 
 Uno speciale sotto-menù consente di effettuare il controllo delle fatture fornitori con le bolle di entrata merce. Vengono effettuati i conteggi degli importi e segnalate eventuali differenze con il totale della fattura. Se i totali quadrano o vengono comunque accettati si può effettuare la contabilizzazione automatica dei documenti.
+
+----
 
 Ordini Clienti
 --------------
@@ -381,8 +388,7 @@ Aggiornamento del magazzino e gestione di schede di interrogazione che consentir
 *	Visualizzazione dei documenti del cliente  sia attraverso il numero di bolla che quello di fattura
 *	Statistiche sull’ordinato con possibilità di parametrizzare le richieste e memorizzarle per poter effettuare richieste veloci.
 
-*Stampe*
-_________
+**Stampe**
 
 Come per le visualizzazioni con in più:
 	
@@ -391,32 +397,29 @@ Come per le visualizzazioni con in più:
 *	Listini cliente o tramite listini (Base di vendita e listini da 1 a 4) o per classi di sconto.
 *	Stampa dei listini di vendita.
 
-*Stampa disponibilità*
-______________________
+**Stampa disponibilità**
 
 Calcolo e stampa degli ordini con evidenziate per data di consegna, la consegnabilità degli ordini e segnalazione per linea di spedizione degli ordini completi della giornata.
 
-
-*Prenotazione materiale*
-________________________
+**Prenotazione materiale**
 
 Uno speciale sotto-menù consente di effettuare prenotazioni di materiali con stampa di documenti non fiscali. Viene effettuato uno scarico fisico del materiale che si trasformerà in vendita all’atto dell’evasione vera e propria.
 Questa funzione può essere utilizzata anche per la preparazione del materiale in spedizione nelle aziende in cui le funzioni di magazzino e spedizioni sono separate.
+
+----
 
 Premi e target
 --------------
 
 Con il presente modulo è possibile gestire:
 
-*Target*
-________
+**Target**
 
 Caricamento dei target mensili in valore o in quantità per agenti, ma anche per clienti e/o fornitori.
 Interrogazione dei target impostati
 Stampa dei target progressivi al mese o mese per mese.
 
-*Premi*
-_______
+**Premi**
 
 Caricamento dei premi su 12 intervalli in valore o in quantità per clienti e/o fornitori, ma anche per agenti.
 Determinazione del tipo di premio che può essere in percentuale, in valore assoluto, in natura.
@@ -424,10 +427,12 @@ Interrogazione dei premi impostati
 Stampa dei premi con riportato il livello di premio raggiunto, il valore del premio, il prossimo livello con indicato il valore (o la quantità) mancante per il suo raggiungimento.
 
 
-*Ricalcolo dei target e premi*
-______________________________________
+**Ricalcolo dei target e premi**
+
 
 Una particolare utilità consente il ricalcolo sia in base all’attivazione della procedura, sia in relazione al cambiamento di qualsiasi livello di premio o target che permetterà il riallineamento dei dati.
+
+----
 
 Statistiche
 -----------
@@ -439,8 +444,7 @@ Tutti i movimenti effettuati sul magazzino sia di scarico che di carico possono,
 
 Stampe di confronto su più anni anche per gruppo merceologico.
 
-*Segreteria*
-______________________________________
+**Segreteria**
 
 Un apposito programma, in questo modulo consente di ottenere a video tutte le informazioni necessarie per dare risposte telefoniche ai clienti che chiedessero la disponibilità di articoli.
 Tale programma consente di visualizzare:
@@ -457,6 +461,8 @@ Appositi tasti funzione consentono inoltre di:
 *   gli articoli alternativi (quelli cioè che possono essere offerti al posto di quello richiesto se questo non fosse disponibile a magazzino)
 *   il dettaglio degli ordini fatti a fornitore con le date di presunta consegna
 *   gli ordini di clienti che generano l'impegno con le date di consegna richieste
+
+----
 
 Distinta base
 -------------
@@ -488,6 +494,8 @@ Determinazione e gestione di una percentuale di sfrido.
 
 *   Gestione di carichi e scarichi su distinta automatici o controllabili a video.
 *   Possibilità di modificare i componenti prima dello scarico sia in quantità che nei codici utilizzati.
+
+----
 
 Fasi e costi di Lavorazione
 ---------------------------
@@ -554,6 +562,8 @@ Implosione dei costi teorici automatica e contemporanea a quelli standard
 *   Stampe costi teorici.
 
 Giacenze di magazzino valorizzate a standard/teorico/prezzo acquisto/costo industriale
+
+----
 
 Riparazioni e garanzie
 ----------------------
@@ -622,6 +632,8 @@ Le visualizzazioni indicano lo stato della riparazione:
 *   Presso il centro di riparazione
 *   Rientrata riparata o no (e a quale costo)
 *   Già consegnata al cliente
+
+----
 
 Commesse di lavorazione interna
 -------------------------------
@@ -776,5 +788,3 @@ Stampe di modulistiche particolari per i pezzi di ricambio utilizzati o per le r
 Già implementata tutta la modulistica relativa a Motorola. 
 
 Possibilità di studiare e realizzare agganci anche a modulistica di altri produttori con poche variazioni di base.
-
-
